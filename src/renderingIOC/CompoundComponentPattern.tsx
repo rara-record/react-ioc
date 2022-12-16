@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import Card from "./Card";
-import Accordion from "./Accordian";
-import {AccordionHeader, AccordionPanel} from "./Accordian";
+import Accordion from "./Accordion";
+import {AccordionHeader, AccordionPanel} from "./Accordion";
 
 
 const CompoundComponentPattern = () => {
